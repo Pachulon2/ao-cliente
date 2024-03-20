@@ -1,5 +1,5 @@
 [INIT]
-Cant=4
+Cant=5
 
 [S1]
 Desc=Server Minehost - Alkon 0.13.X
@@ -24,3 +24,9 @@ Desc=EternalDragons AO | Modo:Alkon 0.13.X
 IP=160.20.247.150
 PJ=24582
 Mundo=Alkon
+
+[S5]
+Desc=CoverAO 1.4.5
+IP=190.136.147.238
+PJ=7666
+Mundo=IAO
